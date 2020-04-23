@@ -1,2 +1,2 @@
 # Sample-Web-App
-Sample Python Web App used that is deployed on push to Azure Web Apps using GitHub Actions
+Sample Python Web App that is deployed on push to Azure Web Apps using GitHub Actions
